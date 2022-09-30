@@ -48,6 +48,7 @@ SOFTWARE.
 ## Demo
 
 Circle Plot:
+
 ![ezgif com-gif-maker](media/output.png)
 
 ## Build
